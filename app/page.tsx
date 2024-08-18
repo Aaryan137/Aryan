@@ -5,7 +5,7 @@ const Home: React.FC = () => {
     <div className="bg-blue-300 min-h-screen flex flex-col items-center justify-between">
       {/* Header */}
       <header className="w-full py-4 bg-transparent flex justify-between items-center px-10">
-        <div className="text-xl font-bold">LABBAN TECH</div>
+        <div className="text-xl font-bold">LIBRAN TECH</div>
         <nav className="space-x-6">
           <a href="#about" className="hover:underline">About</a>
           <a href="#services" className="hover:underline">Services</a>
